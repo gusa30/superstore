@@ -1,0 +1,11 @@
+[component_manager]
+disable_update_check = true
+
+[compute]
+
+[core]
+project = superstore-cloudrun
+
+[run]
+region = asia-east1
+

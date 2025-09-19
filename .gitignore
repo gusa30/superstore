@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.log
+sample_data/
+venv/
+*.zip
+*.tar
+predictions.db
